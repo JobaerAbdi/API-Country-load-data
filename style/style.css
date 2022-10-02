@@ -1,0 +1,16 @@
+
+/* body{
+    background-color: rgb(69, 69, 243);
+} */
+.mainContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+.countryStyle{
+    background-color: rgb(171, 239, 239);
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    border-radius: 30px;
+}
